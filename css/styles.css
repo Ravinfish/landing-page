@@ -11,14 +11,16 @@
 
 .intro {
     color: honeydew;
-    margin: 50px;
+    margin: 20px;
     border: 4px solid rgb(12, 209, 160);
     padding: 1px;
     background-color: rgb(8, 145, 122);
     text-align: center;
 }
 
-img {
-    max-width: 400px;
-    max-height: 400px;
+.intro img {
+    max-width: 50%;
+    max-height: 50%;
+
 }
+
